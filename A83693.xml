@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eight and thirty queries propounded by one that is setting forth sail, and desires to steer his course aright, that escaping the gulphs he may arrive at safety. Touching things past, present, and to come.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83693</idno>
+            <idno type="STC">Wing E257</idno>
+            <idno type="STC">Thomason E988_21</idno>
+            <idno type="STC">ESTC R208117</idno>
+            <idno type="EEBO-CITATION">99867107</idno>
+            <idno type="PROQUEST">99867107</idno>
+            <idno type="VID">119397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119397)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eight and thirty queries propounded by one that is setting forth sail, and desires to steer his course aright, that escaping the gulphs he may arrive at safety. Touching things past, present, and to come.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Andrews,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119397:1" rendition="simple:additions"/>
+            <p>Eight and Thirty QUERIES PROPOUNDED By One that is ſetting forth Sail, and deſires to ſteer his Courſe aright, that eſcaping the Gulphs he may arrive at <hi>SAFETY.</hi>
+            </p>
+            <p>TOUCHING <hi>Things Paſt, Preſent, and to Come.</hi>
+            </p>
+            <q>
+               <p>
+                  <bibl>Prov. 2. 3, 4, 5.</bibl>
+               </p>
+               <p>
+                  <hi>If thou crieſt after knowledge and lifteſt up thy voyce for under<g ref="char:EOLhyphen"/>ſtanding.</hi>
+               </p>
+               <p>
+                  <hi>If thou ſeekeſt her as ſilver and ſearcheſt for her as for hid Trea<g ref="char:EOLhyphen"/>ſures.</hi>
+               </p>
+               <p>
+                  <hi>Then ſhalt thou underſtand.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Andrews,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb facs="tcp:119397:2"/>
+            <pb n="3" facs="tcp:119397:2"/>
+            <head>Thirty Eight QUERIES Touching Things Paſt, Preſent, and to Come.</head>
+            <p n="1">I. WHether <hi>Salus populi</hi> be not the end of the Law of all Nations?</p>
+            <p n="2">II. Whether the peoples Repreſentatives are not the proper Judges of what is for the welfare of the Nation?</p>
+            <p n="3">III. Whether our Parliament be not the ſame in nature, as the Counſell at the time of <hi>Englands</hi> fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt becomming Tributary to the <hi>Romans,</hi> who by their Power choſe, <hi>Theemantius</hi> the yonger Son of <hi>Lud</hi> to be King, rather then <hi>Androgeus</hi> the Elder: And whether the reſtoring the Parliament by <hi>Henry</hi> the firſt, were not a committer of the People to their right, though he abridged their Authority by keeping himſelf the head?</p>
+            <p n="4">
+               <pb n="4" facs="tcp:119397:3"/>IV. Whether Kings now in any Place have the like right to rule as <hi>Abram</hi> had over his family being his Children and Servants?</p>
+            <p n="5">V. Whether then the Right to rule now be not from the E<g ref="char:EOLhyphen"/>lection of the People?</p>
+            <p n="6">VI. Whether the Election of al Kings be not either from Com<g ref="char:EOLhyphen"/>pulſion or from the Truſt, the People reſide in them?</p>
+            <p n="7">VII. Whether the Kings ſince the Conqueſt have reigned by Uſurpation, or by Right?</p>
+            <p n="8">VIII. Whether (if by Uſurpation) their Confirming hath not been by Compulſion?</p>
+            <p n="9">IX. Whether Preſcription gives any more Right to a Crown then to Land?</p>
+            <p n="10">X. Whether a Parliament having Power may not Lawfully repulſe an Uſurper?</p>
+            <p n="11">XI. Whether (if by right) a King being Elected, Eſtabliſhed or Confirmed by Parliament, breaking his Oath and truſt repoſed in him may not by the ſame Authority be taken down, as <hi>Edward</hi> the ſecond and <hi>Richard</hi> the ſecond were?</p>
+            <p n="12">XII. Whether the firſt Provocation and Preparation, or the firſt blow make a War invafive?</p>
+            <p n="13">
+               <pb n="5" facs="tcp:119397:3"/>XIII. Whether every Man of what degree or quality ſoever ought not in all Caſes to-have and receive Juſtice.</p>
+            <p n="14">XIV. Whether it be not more probable that a Parliament wherein every one as a private perſon and his poſterities well being, conſiſts in the Nations well doing, both perſons and Eſtates ſharing a like with the whole people, will be ſo likely to oppreſs the Nation as a ſingle perſon, whoſe <hi>Gaveſtons</hi> and Favorites may be preferd before the good of the Nation. And having the Power can neither be bounded not limited longer then his pleaſure.</p>
+            <p n="15">XV. Whether wiſe and Righteous men are not manifeſted by their actions.</p>
+            <p n="16">XVI. Whether the welfare of the People conſiſteth not in the Enjoyment of VVealth, Peace and Godlineſs?</p>
+            <p n="17">XVII. VVhether the giving liberty to private Meetings on the Sabbath dayes be not more for the advancement of <hi>Iudaiſ<g ref="char:EOLhyphen"/>me, Papiſme,</hi> and <hi>Quakiſm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> then the truth of Chriſtianity?</p>
+            <p n="18">XVIII. VVhether theſe do not beget Diviſions, which is the cauſe of Wars and poverty, and are not likely to produce <hi>Athieſ<g ref="char:EOLhyphen"/>me</hi> and all ungodlineſs in the next Generation.</p>
+            <p n="19">XIX. Whether the Ordinances of Magiſtracy and Miniſtry, as its now Eſtabliſhed in <hi>England,</hi> be according to truth and Righteouſneſs or Antichriſtian.</p>
+            <p n="20">XX Whether the deſpiſers and Contemners thereof, or revilers againſt, ought not to be reſtrained.</p>
+            <p n="21">
+               <pb n="6" facs="tcp:119397:4"/>XXI. Whether it be not Lawfull for the good people being weary of ſitting in Churches, their ſouls loathing ſuch ligh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meat, to change their food and hear <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſuits</hi> in houſes?</p>
+            <p n="22">XXII. Whether it be not Evident, that, that book (lately put forth, entituled Light out of Darkneſs, or Occaſionall Que<g ref="char:EOLhyphen"/>re's, ſo much for the tenents of <hi>Quakers,</hi> and any <hi>Lay</hi> mans publique Preaching,) is the Work of a <hi>Jeſuite?</hi>
+            </p>
+            <p n="23">XXIII. Whether the Souldiers would be content to do the work of God in their places, for what good people ſhould freely give them without a certaine Allowance, as too many of them preſume the Miniſter ought?</p>
+            <p n="24">XXIIII. Whether it be not more meet for every man to pay the tenth of his profit to the Miniſters (or ſome one for his uſe) then to pay the tenth in Mony whether he raiſe profit or no, according to the value of the Land?</p>
+            <p n="25">XXV. Whether it be not almoſt Time for thoſe Commanders that have gotten great Eſtates, and now ſetled in <hi>England</hi> to ſerve the Common-wealth, freely as well Gentlemen in the Country in Commiſions do?</p>
+            <p n="26">XXVI. Whether any thing were ever yet done by Man but i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wanted refining in time?</p>
+            <p n="27">XXVII. Whether the <hi>Iudiciary part</hi> of the Law as it wanteth re<g ref="char:EOLhyphen"/>fining, ſo wanteth refining onely, and not a to tall Subver<g ref="char:EOLhyphen"/>ſion.</p>
+            <p n="29">
+               <pb n="7" facs="tcp:119397:4"/>XXVIII. Whether the young men of <hi>South-wark</hi> underſtood what they Petitioned when they ſpake of having the Law in a Volume.</p>
+            <p n="30">XXIX. Whether the Gentlemen that in the laſt Parliament, firſt voted for the Protector, and were always before Cavaleriſh<g ref="char:EOLhyphen"/>ly aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted, but at laſt joyned in ſome votes with Common<g ref="char:EOLhyphen"/>wealths men were converts out of Integrety or Subtilty.</p>
+            <p n="31">XXX. Whether the Souldiers have not manifeſted their ends in former actions to be the publiq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e good, by their taking their Comiſſions from Parliament, and whether if they con<g ref="char:EOLhyphen"/>tinne obedient, they will not beget everlaſting renown, as well for faithfullneſs as Valour.</p>
+            <p n="32">XXXI. Whether it be not partiality to allow Mr. <hi>Cromwell</hi> and his Mother, more then Mr. <hi>Steward</hi> and his Mother.</p>
+            <p n="33">XXXII. Whether if all Compliers be ſaved harmeleſs by this in<g ref="char:EOLhyphen"/>tended Act of Indemnity, it may not be an incouragement for the future for men to Act irregular and r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bellious things, in hopes that pretending providence, or affirming neceſſity, if their d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſign ſhould fall to the ground, will hold them guiltleſs.</p>
+            <p n="34">XXXIII. Whether thoſe venerable Gentlemen that ſtood for Juſtice on the King, ſetling a Commonwealth then fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttered <hi>Oliver,</hi> were great promoters of Addreſſes to <hi>Richa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> and now for<g ref="char:EOLhyphen"/>ward to bleſs the Armies actions, and court the members of Parliament, deſerve not to have liberty to quarter their Goat of Armes, with a Wind-mill, or a Weather Cock.</p>
+            <p n="35">
+               <pb n="8" facs="tcp:119397:5"/>XXXIV. Whether it be fit to continue ſuch in Places of Truſt when faithfull Real men are not wanting in the Nation?</p>
+            <p n="36">XXXV. Whether it be not abſolutely neceſſary to have <hi>Aſtraea</hi> blindſold, limb'd both in Parliament Houſe and Counſell Chamber for a Memento?</p>
+            <p n="37">XXXVI. Whether the next good ſervice the Souldiers can do as to Reformation, wil not be to take up and ſecure the Whores of <hi>London,</hi> the ruine of ſo many perſons?</p>
+            <p n="38">XXXVII. Whether the beſt place to tranſport them be not to <hi>Jamai<g ref="char:EOLhyphen"/>ca,</hi> where they may Luſt and not be ſatiſfied?</p>
+            <p n="39">XXXVIII. Whether it be not requiſite that <hi>James Harrington</hi> and his follo wers be deſired to take their Clubs out of <hi>England,</hi> and wait upon theſe virtuous Gentlewomen, with whom they may be ſure to live as Tenents in Common and not fayle to Eſtabliſh <hi>Leveliſme</hi> and <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſme?</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
